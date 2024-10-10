@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(154, 154, 240);
+}
+h1 {
+    outline-style: dashed;
+    outline-color: rebeccapurple;
+    font-size: 60px;
+    text-align: center;
+    color: rebeccapurple;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    color: black;
+    border-color: rebeccapurple;
+    background-color: palevioletred;
+    border-radius: 6px;
+}
